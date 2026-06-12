@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1781016505 source:c:\users\manu_\onedrive\documentos\github\otro-repositorio-ejemplo\ejemplo examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"registroMedico.h"
+
+1780418045 c:\users\manu_\onedrive\documentos\github\otro-repositorio-ejemplo\ejemplo examen\registromedico.h
+
+1781016495 source:c:\users\manu_\onedrive\documentos\github\otro-repositorio-ejemplo\ejemplo examen\registromedico.c
+	<stdio.h>
+	<stdlib.h>
+	"registroMedico.h"
+
