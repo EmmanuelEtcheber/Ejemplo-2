@@ -4,7 +4,8 @@
 
 void mostrarRegistro (stRegistroMedico nuevo)
 {
-    printf("\n--------------------------------");
+
+    printf("\n--------------------------------\n");
     printf("\nID Registro: %i", nuevo.idRegistro);
     printf("\nID Paciente: %i", nuevo.idPaciente);
     printf("\nID Especialidad: %i", nuevo.idEspecialidadMedica);
