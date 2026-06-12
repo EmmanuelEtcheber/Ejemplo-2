@@ -5,6 +5,7 @@ int main()
 {
     //cargarDatoAlArchivo();
     ///Este es un cambio desde la compu de Emma
+    ///Esto es un cambio desde la compu de Lucre
     mostrarArchivo();
 }
 void cargarDatoAlArchivo ()
