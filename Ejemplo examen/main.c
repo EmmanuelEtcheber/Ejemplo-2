@@ -4,6 +4,7 @@
 int main()
 {
     //cargarDatoAlArchivo();
+    ///Este es un cambio desde la compu de Emma
     mostrarArchivo();
 }
 void cargarDatoAlArchivo ()
