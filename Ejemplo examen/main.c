@@ -9,6 +9,7 @@ int main()
 
 
     ///Cambio desde Lucre para conflicto
+
     mostrarArchivo();
 }
 void cargarDatoAlArchivo ()
