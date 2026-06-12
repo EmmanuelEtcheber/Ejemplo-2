@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include "registroMedico.h"
 
+void funcionReLoca()
+{
+
+}
+
 void mostrarRegistro (stRegistroMedico nuevo)
 {
 
