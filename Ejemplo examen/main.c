@@ -3,14 +3,12 @@
 #include "registroMedico.h"
 int main()
 {
-    //cargarDatoAlArchivo();
-    ///Este es un cambio desde la compu de Emma
-    ///Esto es un cambio desde la compu de Lucre
 
 
-    ///Cambio desde Lucre para conflicto
 
     mostrarArchivo();
+
+    ///Fin.
 }
 void cargarDatoAlArchivo ()
 {
