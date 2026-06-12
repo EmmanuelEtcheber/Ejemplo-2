@@ -6,6 +6,8 @@ int main()
     //cargarDatoAlArchivo();
     ///Este es un cambio desde la compu de Emma
     ///Esto es un cambio desde la compu de Lucre
+
+    ///Cambio desde Emma para conflicto
     mostrarArchivo();
 }
 void cargarDatoAlArchivo ()
